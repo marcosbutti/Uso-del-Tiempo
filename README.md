@@ -4,9 +4,10 @@ _Análisis de los hábitos de los argentinos con datos abiertos del INDEC._
 
 [Detalles](https://github.com/marcosbutti/Uso-del-Tiempo/blob/main/Uso_del_Tiempo.ipynb)
 
-![dormir](https://github.com/marcosbutti/Uso-del-Tiempo/assets/113639622/4666a22e-106f-45da-86e3-853b92579ed7)
-![trabajar](https://github.com/marcosbutti/Uso-del-Tiempo/assets/113639622/b9815100-c28e-489d-a89d-5290df880b06)
-![celular](https://github.com/marcosbutti/Uso-del-Tiempo/assets/113639622/b2496f93-a44e-4418-86eb-53c27b1ef417)
-![musica](https://github.com/marcosbutti/Uso-del-Tiempo/assets/113639622/412e4d01-7fdb-41a9-a030-dba309901258)
-![tv](https://github.com/marcosbutti/Uso-del-Tiempo/assets/113639622/8f340d3b-18ff-4b74-8b32-af3f0248734c)
-![flia](https://github.com/marcosbutti/Uso-del-Tiempo/assets/113639622/4c00c1b7-0554-44a1-bcea-86d8eb309346)
+![dormir](https://github.com/marcosbutti/Uso-del-Tiempo/assets/113639622/20c1979f-5df5-4bc9-88ac-9276d002cca3)
+![trabajo](https://github.com/marcosbutti/Uso-del-Tiempo/assets/113639622/b7062cae-6f7e-4b42-bee8-ba135e3a142f)
+![celular](https://github.com/marcosbutti/Uso-del-Tiempo/assets/113639622/e5ef988a-3425-400e-8a42-a11355c4df60)
+![musica](https://github.com/marcosbutti/Uso-del-Tiempo/assets/113639622/234aa3d9-1c6f-4b1d-b884-54de1be70a04)
+![tv](https://github.com/marcosbutti/Uso-del-Tiempo/assets/113639622/d61f578f-9c67-44db-b0a6-50bf8f68e935)
+![flia](https://github.com/marcosbutti/Uso-del-Tiempo/assets/113639622/97e0085f-2bf4-408b-a508-5740286bfe9d)
+
