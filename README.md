@@ -10,4 +10,4 @@ _Análisis de los hábitos de los argentinos con datos abiertos del INDEC._
 ![musica](https://github.com/marcosbutti/Uso-del-Tiempo/assets/113639622/234aa3d9-1c6f-4b1d-b884-54de1be70a04)
 ![tv](https://github.com/marcosbutti/Uso-del-Tiempo/assets/113639622/d61f578f-9c67-44db-b0a6-50bf8f68e935)
 ![flia](https://github.com/marcosbutti/Uso-del-Tiempo/assets/113639622/97e0085f-2bf4-408b-a508-5740286bfe9d)
-
+![deporte](https://github.com/marcosbutti/Uso-del-Tiempo/assets/113639622/13664a4f-b35a-4bd4-9050-652578cc4fde)
