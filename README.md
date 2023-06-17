@@ -2,7 +2,7 @@
 ## ⏳ Uso del Tiempo
 _Análisis de los hábitos de los argentinos con datos abiertos del INDEC._
 [Detalles](https://github.com/marcosbutti/Uso-del-Tiempo/blob/main/Uso_del_Tiempo.ipynb)
-* Muestra prelimiar de los tiempos y promedios de las principales y más reiteradas actividades presentes en la encuestada. 
+* Muestra prelimiar de los tiempos y promedios de las principales y más reiteradas actividades presentes en la encuesta. 
 
 ![dormir](https://github.com/marcosbutti/Uso-del-Tiempo/assets/113639622/20c1979f-5df5-4bc9-88ac-9276d002cca3)
 ![trabajo](https://github.com/marcosbutti/Uso-del-Tiempo/assets/113639622/b7062cae-6f7e-4b42-bee8-ba135e3a142f)
