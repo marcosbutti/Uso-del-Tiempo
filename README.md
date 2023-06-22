@@ -4,11 +4,13 @@ _Análisis de los hábitos de los argentinos con datos abiertos del INDEC._
 [Detalles](https://github.com/marcosbutti/Uso-del-Tiempo/blob/main/Uso_del_Tiempo.ipynb)
 * Muestra prelimiar de los tiempos y promedios de las principales y más reiteradas actividades presentes en la encuesta. 
 
-![dormir](https://github.com/marcosbutti/Uso-del-Tiempo/assets/113639622/20c1979f-5df5-4bc9-88ac-9276d002cca3)
-![trabajo](https://github.com/marcosbutti/Uso-del-Tiempo/assets/113639622/b7062cae-6f7e-4b42-bee8-ba135e3a142f)
-![celular](https://github.com/marcosbutti/Uso-del-Tiempo/assets/113639622/e5ef988a-3425-400e-8a42-a11355c4df60)
-![musica](https://github.com/marcosbutti/Uso-del-Tiempo/assets/113639622/234aa3d9-1c6f-4b1d-b884-54de1be70a04)
-![tv](https://github.com/marcosbutti/Uso-del-Tiempo/assets/113639622/d61f578f-9c67-44db-b0a6-50bf8f68e935)
-![flia](https://github.com/marcosbutti/Uso-del-Tiempo/assets/113639622/97e0085f-2bf4-408b-a508-5740286bfe9d)
-![deporte](https://github.com/marcosbutti/Uso-del-Tiempo/assets/113639622/13664a4f-b35a-4bd4-9050-652578cc4fde)
-![viajar](https://github.com/marcosbutti/Uso-del-Tiempo/assets/113639622/911e8a7d-6788-486b-b996-73401e4bb6f3)
+![Dormir](https://github.com/marcosbutti/Uso-del-Tiempo/assets/113639622/3ccceaf9-7800-4bc9-9cf7-9c6986fddaf1)
+![Trabajo](https://github.com/marcosbutti/Uso-del-Tiempo/assets/113639622/5a8261c2-72d2-4c52-bd6e-4fba0fc83600)
+![Celular](https://github.com/marcosbutti/Uso-del-Tiempo/assets/113639622/1d2af9c6-4fee-4aa5-874c-5dc9d4b42e54)
+![Música](https://github.com/marcosbutti/Uso-del-Tiempo/assets/113639622/8ff076e0-29f9-409c-b493-14b33f1a1883)
+![Tv](https://github.com/marcosbutti/Uso-del-Tiempo/assets/113639622/3c9d4b93-eca9-457b-bbfd-7541d127ceca)
+![Flia](https://github.com/marcosbutti/Uso-del-Tiempo/assets/113639622/3040ceaf-ab46-4dc4-9e3d-c043c2f64fe5)
+![Deporte](https://github.com/marcosbutti/Uso-del-Tiempo/assets/113639622/e5c1c101-9689-46df-b51b-d6c6a908f329)
+![ViajeTrabajo](https://github.com/marcosbutti/Uso-del-Tiempo/assets/113639622/b0ca9183-f469-43dd-9fb7-166264d12e5d)
+
+
